@@ -1,0 +1,49 @@
+.special.paragraph {
+    color: brown;
+}
+
+.paragraph {
+    color:purple;
+    font-weight: 700;
+    font-style: italic;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.list {
+    background-color: bisque;
+    border: 1px solid black;
+    padding: 5px;
+}
+
+.listitem {
+    font-size: large;
+}
+
+.list .listitem {
+    color: orange;
+}
+
+.listitem:last-child {
+    color: purple;
+}
+
+.listitem:first-child {
+    color: pink;
+}
+
+.main {
+    width: 50%;
+    float: right;
+}
+
+.image {
+    width: 50%;
+    height: 50%;
+}
+
+.coolimage {
+    width: 100px;
+    height: 100px;
+    background: url(https://i.pinimg.com/564x/7f/26/e7/7f26e71b2c84e6b16d4f6d3fd8a58bca.jpg) no-repeat center;
+    background-size: contain;
+} 
