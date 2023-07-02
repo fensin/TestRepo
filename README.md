@@ -1,1 +1,1 @@
-https://fensin.github.io/TestRepo/Index.html
+https://fensin.github.io/TestRepo/Index
